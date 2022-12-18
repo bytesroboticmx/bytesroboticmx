@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bytesroboticmx
 - 👀 I’m interested in Robotics & Artificial Intelligence
-- 🌱 I’m currently learning Bioteghnology
+- 🌱 I’m currently learning nanotechnology
 - 💞️ I’m looking to collaborate on analisis and design electronics
 - 📫 How to reach me @bytesroboticmx
 
